@@ -1,15 +1,9 @@
 # 작동
 
-<br>
-![](./mlp01.png)<br>
-![](./mlp02.png)<br>
-![](./mlp03.png)<br>
-![](./mlp04.png)<br>
-<br>
-<br>
-<br>
-
 ![](./mlp01.png)
+![](./mlp02.png)
+![](./mlp03.png)
+![](./mlp04.png)
 
 # 개선
 
